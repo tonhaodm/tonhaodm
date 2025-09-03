@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tonhaodm
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tonhao@gmail.com
 
 <!---
